@@ -1,0 +1,27 @@
+.work-photo{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.img-work img{
+    border-radius: 20px;
+    width: 100%;
+}
+.blog-post{
+    margin: 0 auto;
+    width: 50%;
+    height: 100%;
+    margin-bottom: 100px;
+}
+.blog-post h1{
+    font-size: 4rem;
+    line-height: 70px;
+    color: #0D1317;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.man-name img{
+    border-radius: 50%;
+}
+.blog-post h2{
+    font-size: 3rem;
+}

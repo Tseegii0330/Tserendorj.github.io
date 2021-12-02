@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../mstars-exercises/Tserendorj/ajax basics/ex-03"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Tserendorj.github.io"
+	}
+}

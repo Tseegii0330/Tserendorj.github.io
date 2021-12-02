@@ -1,0 +1,34 @@
+.career-sec1{
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+.career-sec1 h2{
+    font-size: 3rem;
+    font-weight: 600;
+}
+.career-list{
+    display: flex;
+    flex-wrap: wrap;
+}
+#strech{
+    background-color:  #edf7ff;
+    padding: 0px 50px 20px 40px ;
+    border-radius: 20px;
+    margin-right: 40px;
+    margin-top: 40px;
+    width: 250px;
+}
+#strech p{
+    margin-top: 5px;
+    font-weight: 600;
+}
+.desc-career h3{
+   font-size: 1.5rem;
+   font-weight: 600;
+}
+#strech .Apply p a{
+    color: #f58A07;
+}
+.Apply{
+    margin-top: 20px;
+}

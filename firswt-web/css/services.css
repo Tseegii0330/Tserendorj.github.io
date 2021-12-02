@@ -1,0 +1,90 @@
+.main-service{
+    background-color: #edf7ff;
+    margin-top: 20px;
+}
+.main-service-col{
+   display: flex;
+   padding: 100px 0 100px 0;
+   justify-content: space-between;
+}
+.main-service-col .man-name img{
+    border-radius: 50%;
+}
+.main-service-col .man-pic img{
+    border-radius: 20px;
+    width: 100%;
+    height: 100%;
+}
+.man-name{
+    display: flex;
+    align-items: center;
+    padding-right: 20px;
+}
+.man-name p{
+    margin-top: 0;
+    font-weight: 500;
+    margin-right: 20px;
+    margin-left: 10px;
+}
+.man-col{
+    width: 50%;
+    margin-right: 100px;
+}
+.man-post h1{
+    font-size: 4rem;
+    line-height: 80px;
+    margin-right: 50px;
+}
+.man-post p{
+    margin-top: 20px;
+}
+.readmore p a{
+    color: #f58A07;
+}
+
+
+/* all post heseg */
+
+.All-post{
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+.All-post h2{
+    font-size: 3rem;
+    margin-bottom: 75px;
+}
+.all-post-col{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+}
+.col-3{
+    width: calc(100%/3);
+    padding: 0 15px;
+    box-sizing: border-box;
+}
+.article{
+    background-color: #edf7ff;
+    height: 100%;
+    border-radius: 20px;
+}
+.col-3:first-child{
+    padding-left: 0;
+}
+.col-3:last-child{
+    padding-right: 0;
+} 
+.thambnail img{
+    width: 100%;
+    border-radius: 20px 20px 0 0;
+}
+.all-post-title{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: calc(100% - 300px);
+    padding: 30px;
+}
+.all-post-title a{
+    color: #f58A07;
+}
